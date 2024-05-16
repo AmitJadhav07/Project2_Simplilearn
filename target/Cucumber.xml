@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="22.236" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Swiggy_Assignment2" name="Add item to cart and verify it." time="21.829">
+<system-out><![CDATA[
+Given The user launches the application.....................................passed
+When Enter delivery location "Satara" and Click on search...................passed
+Then Search for the product "Pizza".........................................passed
+Then Add the product into cart..............................................passed
+Then Goto cart..............................................................passed
+And Verify the prodect is added successfully................................passed
+]]></system-out>
+</testcase>
+</testsuite>
